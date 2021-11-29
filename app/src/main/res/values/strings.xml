@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">home</string>
+    <string name="text1">0</string>
+    <string name="toast_btn">Toast</string>
+    <string name="count_btn">count</string>
+    <string name="random_btn">random</string>
+    <string name="random_heading">Random number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TTTTTTT">TTTTTT</string>
+    <string name="secondfragment">SecondFragment</string>
+    <string name="LOREM_IPSUM">lorem_ipsum</string>
+    <string name="random_number">Random number: %1$d</string>
+</resources>

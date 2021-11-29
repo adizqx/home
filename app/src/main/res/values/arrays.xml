@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+
+
+<item>John</item>
+<item>Mask</item>
+<item>Liam</item>
+<item>Kate</item>
+<item>Vik</item>
+<item>Dir</item>
+    </string-array>
+
+</resources>
